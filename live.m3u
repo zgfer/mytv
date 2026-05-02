@@ -47,6 +47,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=46
 http://iptv.4666888.xyz/iptv2A.php?id=53
 #EXTINF:-1 group-title="台弯频道",TVBS精采
 http://iptv.4666888.xyz/iptv2A.php?id=47
+#EXTINF:-1 group-title="台弯频道",龙华电影
+https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 group-title="台弯频道",龙华偶像
 http://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 group-title="台弯频道",龙华日韩
@@ -60,11 +62,11 @@ http://iptv.4666888.xyz/iptv2A.php?id=48
 #EXTINF:-1 group-title="台弯频道",天映经典
 https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 group-title="台弯频道",寰宇新闻台
-https://www.youtube.com/watch?v=6IquAgfvYmc
+http://85.237.207.150:50007/of-litv-longturn14/index.m3u8
 #EXTINF:-1 group-title="台弯频道",寰宇新闻台弯台
-https://www.youtube.com/watch?v=w87VGpgd90U
-#EXTINF:-1 group-title="台弯频道",东森新闻台
-https://www.youtube.com/watch?v=V1p33hqPrUk
+http://85.237.207.150:50007/of-4gtv-4gtv156/index.m3u8
+#EXTINF:-1 group-title="台弯频道",中天新闻台
+http://85.237.207.150:50007/of-4gtv-4gtv009/index.m3u8
 
 #EXTINF:-1 group-title="新加坡频道",八度空间
 http://cdn6.163189.xyz/163189/8tv
