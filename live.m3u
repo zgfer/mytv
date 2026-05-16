@@ -11,7 +11,6 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 #EXTINF:-1 group-title="卫视频道",中央台
 http://175.178.232.13:16888/apin/vip/jrvip.php?id=53eddd6325c239510ac93e3e18733f90&l=0&ckey=XYX005YDLTEST00123@abc_1778895831&token=65d0bb10aa1ae48aac814416d2712786&session=9965c3ca9153b1ed8cc5d467bbf74bf7
-CCTV1,http://175.178.232.13:16888/apin/vip/jrvip.php?
 
 #EXTINF:-1 group-title="香港频道",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw
